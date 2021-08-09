@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HarshVagh
+- 👋 Hi, I’m @HarshVagh (Harsh Vaghasiya)
 - 👀 I’m interested in Fullstack Mobile App and WebApp Development
 - 🌱 I’m currently learning Ruby on Rails
 - 💞️ I’m looking to collaborate on ...
