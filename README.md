@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HarshVagh (Harsh Vaghasiya)
-- 👀 I’m interested in Fullstack Mobile App and WebApp Development
-- 🌱 I’m currently learning Ruby on Rails
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Sofware Development and Cloud Computing
+- 🌱 I’m currently learning Cloud Architecures and Advanced Computer Networks
+- 💞️ I’m looking to collaborate on Ruby on rails or Angular Projects
 - 📫 How to reach me: harshvagh123@gmail.com
 
 <!---
