@@ -1,6 +1,6 @@
-# Hi there, I'm Harsh Birenbhai Vaghasiya 👋
+# Hi there, I'm Harsh Vaghasiya 👋
 
-🌟 **Full-Stack Developer | Cloud Enthusiast | Generative AI Advocate**
+🌟 **Full-Stack Developer | Cloud Enthusiast | Generative AI Enthusiast**
 
 Welcome to my GitHub! I am a dedicated full-stack developer and a Master's student in Applied Computer Science at Dalhousie University. I love creating efficient, scalable, and user-friendly applications. Technology is my passion, and I’m always eager to learn and build something amazing.
 
