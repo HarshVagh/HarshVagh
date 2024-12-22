@@ -59,7 +59,7 @@ Welcome to my GitHub! I am a dedicated full-stack developer and a Master's stude
 ---
 
 ### 🌐 **Let's Connect!**
-- **LinkedIn:** [linkedin.com/in/harsh-vaghasiya](https://www.linkedin.com/in/harsh-vaghasiya)
+- **LinkedIn:** [linkedin.com/in/harshvagh123]([https://www.linkedin.com/in/harsh-vaghasiya](https://www.linkedin.com/in/harshvagh123/))
 - **GitHub:** [github.com/HarshVagh](https://github.com/HarshVagh)
 - **Personal Email:** harshvagh123@gmail.com
 - **Dal Email:** harsh.vaghasiya@dal.ca
