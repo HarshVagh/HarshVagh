@@ -31,7 +31,7 @@ Welcome to my GitHub! I am a dedicated full-stack developer and a Master's stude
 ### 🏢 **Professional Experience**
 
 **Full-Stack Developer** | Jombay | India | *07/2021 - 11/2023*
-- Led the development of ECO360, a 360-degree feedback platform using Ruby on Rails and Angular.
+- Led the development of ECO360, a 360-degree feedback platform.
 - Enhanced iDev Learning Platform with timeline-based learner journeys, gamification, and dynamic activity segmentation.
 - Designed scalable microservices pipelines with AWS and Jenkins.
 
