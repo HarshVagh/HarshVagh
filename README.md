@@ -66,16 +66,6 @@ Welcome to my GitHub! I am a dedicated full-stack developer and a Master's stude
 
 ---
 
-### 📊 **GitHub Metrics Dashboard**
-
-#### **GitHub Stats**
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshVagh&show_icons=true&theme=tokyonight)
-
-#### **Languages Used**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshVagh&layout=compact&theme=tokyonight)
-
----
-
 ### 🤝 **Collaboration Opportunities**
 Feel free to explore my repositories, contribute, or reach out for exciting collaborations in Full-Stack Development, Cloud Computing, or Generative AI!
 
